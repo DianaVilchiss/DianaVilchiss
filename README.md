@@ -37,9 +37,6 @@ Soy una estudiante que disfruta entender cómo funcionan los sistemas desde dent
 Me interesa no solo que el código funcione, sino que esté bien organizado, sea entendible y tenga una buena presentación visual.
 He trabajado en proyectos donde combino lógica, backend y frontend para construir soluciones completas.
 
-## 📊 Estadísticas
-![Estadísticas de Diana](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-
 ## 📫 Contacto:
 * **Email:** [dianavilsan2004@gamil.com]
 
