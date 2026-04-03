@@ -38,6 +38,6 @@ Me interesa no solo que el código funcione, sino que esté bien organizado, sea
 He trabajado en proyectos donde combino lógica, backend y frontend para construir soluciones completas.
 
 ## 📫 Contacto:
-* **Email:** [dianavilsan2004@gamil.com]
+* **Email:** [dianavilsan2004@gmail.com]
 
 ---
